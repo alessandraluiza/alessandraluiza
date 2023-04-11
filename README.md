@@ -1,5 +1,5 @@
 
-# AlessandraLuisa
+# Alessandra Luiza
 Olá me chamo Alessandra Luisa, e estou cursando o primeiro semestre de TADS.
 
 Here are some ideas to get you started:
