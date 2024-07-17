@@ -1,10 +1,10 @@
 
 # Alessandra Luiza
-Olá me chamo Alessandra Luiza, e estou cursando o primeiro semestre de TADS.
+Olá me chamo Alessandra Luiza, e estou cursando o quarto semestre de TADS.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Biocardios how Auxiliar Administrativa
+- 🔭 I’m currently working on Mearas how Auxiliar Administrativa
 - 🌱 I’m currently learning: HTML, CSS e PYTHON
 - 📫 How to reach me: aleluizasg@gmail.com
 
