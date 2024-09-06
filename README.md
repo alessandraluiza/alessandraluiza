@@ -2,10 +2,7 @@
 # Alessandra Luiza
 Olá me chamo Alessandra Luiza, e estou cursando o quarto semestre de TADS.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Mearas how Auxiliar Administrativa
-- 🌱 I’m currently learning: HTML, CSS e PYTHON
+- 🌱 I’m currently learning: PYTHON
 - 📫 How to reach me: aleluizasg@gmail.com
 
 <div>
