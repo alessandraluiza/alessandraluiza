@@ -1,8 +1,8 @@
 
 # Alessandra Luiza
-Olá me chamo Alessandra Luiza, e estou cursando o quarto semestre de TADS.
+Olá me chamo Alessandra Luiza, sou formada em Análise e Desenvolvimento de Sistemas.
 
-- 🌱 I’m currently learning: PYTHON
+- 🌱 I’m currently learning: PYTHON and AWS
 - 📫 How to reach me: aleluizasg@gmail.com
 
 <div>
